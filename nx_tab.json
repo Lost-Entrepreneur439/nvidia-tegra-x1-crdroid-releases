@@ -1,2 +1,27 @@
-There is no official support for this device yet
-Consider adding official support by reading the documentation at https://github.com/crdroidandroid/android_vendor_crDroidOTA/blob/11.0/README.md
+{
+	"response": [
+		{
+			"maintainer": "Lost-Entrepreneur439",
+			"oem": "NINTENDO",
+			"device": "Switch",
+			"filename": "crDroidAndroid-11.0-20240215-nx_tab-v7.39.zip",
+			"download": "https://github.com/Lost-Entrepreneur439/nvidia-tegra-x1-crdroid-releases/releases/download/02-15-2024/crDroidAndroid-11.0-20240215-nx_tab-v7.39.zip",
+			"md5": "c3e9e669924db9094e61bb59f54262e6",
+			"sha256": "957a254464b27586f460e6c23bc054b4216b79e91bf5b387ccf8deb855743d07",
+			"size": 786823703,
+			"version": "7.39",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://github.com/Lost-Entrepreneur439/nvidia-tegra-x1-crdroid-releases/releases/download/02-15-2024/recovery.img",
+			"paypal": "",
+			"telegram": "",
+			"dt": "https://gitlab.com/switchroot/android/android_device_nintendo_nx",
+			"common-dt": "https://github.com/LineageOS/android_device_nvidia_tegra-common/tree/lineage-18.1",
+			"kernel": "https://gitlab.com/switchroot/kernel/l4t-platform-t210-switch/-/tree/lineage-18.1?ref_type=heads"
+		}
+	]
+}
